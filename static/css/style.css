@@ -1,12 +1,12 @@
 body {
-  background-color: #91ced4;
+  background-color: #00545c;
 }
 body * {
   box-sizing: border-box;
 }
 
 .header {
-  background-color: #327a81;
+  background-color: #393281;
   color: white;
   font-size: 1.5em;
   padding: 1rem;
